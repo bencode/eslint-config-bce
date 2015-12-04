@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-bce",
+  "version": "0.3.0",
+  "description": "enhance eslint-config-bcd for es6",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bencode/eslint-config-bce.git"
+  },
+  "author": "bencode@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bencode/eslint-config-bce/issues"
+  },
+  "homepage": "https://github.com/bencode/eslint-config-bce#readme",
+  "dependencies": {
+    "eslint-config-bcd": "~0.2.0"
+  }
+}
