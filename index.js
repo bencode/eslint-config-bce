@@ -1,7 +1,7 @@
 var exports = module.exports = Object.assign({}, require('eslint-config-bcd'));
 
 
-assign(exports, {
+Object.assign(exports, {
   ecmaFeatures: {
     arrowFunctions: true,
     blockBindings: true,
