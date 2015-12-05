@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-bce",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "enhance eslint-config-bcd for es6",
   "main": "index.js",
   "repository": {
