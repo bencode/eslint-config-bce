@@ -1,2 +1,3 @@
 # eslint-config-bce
-enhance eslint-config-bcd for es6
+
+eslint config for es6
