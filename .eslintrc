@@ -523,8 +523,9 @@ module.exports = {
     // 生成器星星紧挨function后面加个空格
     'generator-star-spacing': [2, 'after'],
 
-    // 暂时用用var吧，全面支持es6时再打开
+    // 用了const和let就不用var
     'no-var': 2,
+
     //'object-shorthand': 2,
     'prefer-const': 2
   }
