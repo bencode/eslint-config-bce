@@ -7,6 +7,9 @@
     "type": "git",
     "url": "git+https://github.com/bencode/eslint-config-bce.git"
   },
+  "devDependencies": {
+    "eslint": "~1.10.3"
+  },
   "author": "bencode@163.com",
   "license": "ISC",
   "bugs": {
