@@ -433,7 +433,8 @@ module.exports = {
     'no-trailing-spaces': 2,
 
     // 不允许定义下划线的变量
-    'no-underscore-dangle': 2,
+    // 我们允许在类中使用下划类定义私有字段
+    //'no-underscore-dangle': 2,
 
     // 避免啰嗦的三元表达式
     'no-unneeded-ternary': 2,
