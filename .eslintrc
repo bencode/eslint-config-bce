@@ -505,7 +505,7 @@ module.exports = {
     'max-depth': [2, 3],
 
     // 最大长度
-    'max-len': [2, 80, 2],
+    'max-len': [2, 90, 2],
 
     // 最大参数个数
     'max-params': [2, 4],
