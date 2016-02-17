@@ -12,7 +12,9 @@ module.exports = {
   globals: {
     // for unit test
     describe: true,
-    it: true
+    it: true,
+    beforeEach: true,
+    afterEach: true
   },
 
 
