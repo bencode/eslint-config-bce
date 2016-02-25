@@ -4,17 +4,8 @@ module.exports = {
   env: {
     // 运行在nodejs环境
     node: true,
-    es6: true
-  },
-
-
-  // 全局变量
-  globals: {
-    // for unit test
-    describe: true,
-    it: true,
-    beforeEach: true,
-    afterEach: true
+    es6: true,
+    mocha: true
   },
 
 
