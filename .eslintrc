@@ -106,8 +106,8 @@ module.exports = {
     // 圈复杂度, 因为七上八下, 超过7函数会比较杂容易出错
     'complexity': [2, 7],
 
-    // return要一致
-    'consistent-return': 2,
+    // return要一致, 这样不需要，用处不大
+    'consistent-return': 0,
 
     // if/for等语句必做要有大括号包围
     'curly': 2,
