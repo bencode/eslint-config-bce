@@ -6,6 +6,13 @@
   "scripts": {
     "lint": "eslint ."
   },
+  "dependencies": {
+    "eslint-config-airbnb-base": "^11.1.2",
+    "eslint-plugin-import": "^2.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.18.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bencode/eslint-config-bce.git"
@@ -15,12 +22,5 @@
   "bugs": {
     "url": "https://github.com/bencode/eslint-config-bce/issues"
   },
-  "homepage": "https://github.com/bencode/eslint-config-bce#readme",
-  "devDependencies": {
-    "eslint": "^3.18.0",
-    "eslint-config-airbnb-base": "^11.1.2"
-  },
-  "dependencies": {
-    "eslint-plugin-import": "^2.2.0"
-  }
+  "homepage": "https://github.com/bencode/eslint-config-bce#readme"
 }
