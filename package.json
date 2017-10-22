@@ -7,11 +7,11 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "eslint-config-airbnb-base": "^11.1.2",
-    "eslint-plugin-import": "^2.2.0"
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
   },
   "devDependencies": {
-    "eslint": "^3.18.0"
+    "eslint": "^4.9.0"
   },
   "repository": {
     "type": "git",
