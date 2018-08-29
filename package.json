@@ -1,17 +1,17 @@
 {
   "name": "eslint-config-bce",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "description": "eslint-config for es6",
   "main": "index.js",
   "scripts": {
     "lint": "eslint ."
   },
   "dependencies": {
-    "eslint-config-airbnb-base": "^13.0.0",
-    "eslint-plugin-import": "^2.13.0"
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
   },
   "devDependencies": {
-    "eslint": "^5.3.0"
+    "eslint": "^5.4.0"
   },
   "repository": {
     "type": "git",
