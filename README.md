@@ -32,7 +32,6 @@ npm install --save-dev eslint eslint-config-bce
 ```json
 {
  "scripts": {
-   ...
    "lint": "eslint src"
  }
 }
