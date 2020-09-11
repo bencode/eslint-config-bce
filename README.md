@@ -3,10 +3,9 @@
 Eslint config for nodejs/es6
 
 - based on [eslint-config-airbnb-base](https://github.com/airbnb/javascript)
-- add some friendly [rules](rules.js) that from practice.
+- add some friendly [rules](rules.js) from practice.
 
 ## Usage
-
 
 1. Install
 
